@@ -1,0 +1,38 @@
+.reg_div{
+    background: rgba(142, 142, 244,.5);
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+}
+.comp_div{
+    background: rgba(91, 211, 135, 0.5);
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+    border: 1px solid aqua;
+}
+.sub_button{
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid aqua;
+}
+.user_input,.pass_input{
+    color: aqua;
+    text-align: center;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid ;
+}
+.user_h4,.pass_h4{
+    background: rgb(30, 25, 25);
+    color: aqua;
+    border-radius: 5px;
+    text-align: center;
+}
